@@ -85,6 +85,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 #EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax",Action24
 https://actionlive.siliconweb.com/actionabr/actiontv/actionlive/actiontv_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="Liga 1 2022/23",PSS Sleman VS Bali United
+https://token-media-vidio-com.vidiocdn.net/uploads/7459589/edge-cache-token=Expires=1741111919&KeyName=tokenized-media-vidio-com-keyset&Signature=ZUyg9SumohNHlltC7aM08O2a8meWH5X9gxokoYpp1e_Emq_qtyQI6dBZfeJI4KA-dds5Z6lHlFQqMhTTTMhoCw==/ets-playlist-1200-e35b6.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="live",Kompas TV
 http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="live",Kompas TV (Dens)
