@@ -99,6 +99,17 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
 https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="Sports",Indosiar BRI liga 🇮🇩
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="Sports",Indosiar Vidio 🇮🇩
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rywrbJ7/sportstar.png" group-title="SHAREEXT@MPD_VISION~PLUS", SPORTSTAR 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
